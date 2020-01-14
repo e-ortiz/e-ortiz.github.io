@@ -7,7 +7,7 @@ function gitHub() {
 }
 
 function openEmail() {
-   mailto:'eortiz@udel.edu';
+	mailto:eortiz@udel.edu?subject="";
 }
 
 function openNAMD() {
