@@ -6,12 +6,12 @@ function gitHub() {
    window.open('https://github.com/e-ortiz');
 }
 
-function openEmail() {
-	mailto:eortiz@udel.edu?subject="";
-}
+//function openEmail() {
+	//mailto:eortiz@udel.edu?subject="";
+//}
 
 function openNAMD() {
-   window.open('https://github.com/vipud/hpc/tree/master/f17');
+window.open('https://github.com/vipud/hpc/tree/master/f17');
 }
 
 function openEstuary() {
@@ -20,4 +20,8 @@ function openEstuary() {
 
 function openRockPaperScissors() {
    window.open('https://codepen.io/eortiz333/full/OJPEwyZ');
+}
+  
+  function openResume() {
+window.open('https://github.com/e-ortiz/e-ortiz.github.io/raw/master/Resume%2C%20Ortiz%2C%20Edwin%202020.pdf');
 }
