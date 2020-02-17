@@ -9,6 +9,7 @@ html {
 html,
 body {
   margin: 0px;
+  text-align: "justify";
 }
 
 header,
