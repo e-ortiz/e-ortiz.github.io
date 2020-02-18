@@ -12,6 +12,10 @@ body {
   text-align: "justify";
 }
 
+.btn:hover{
+  cursor: pointer;
+}
+
 header,
 footer {
   font-family: Quicksand;
@@ -417,6 +421,14 @@ div.highlightTextIn a:before {
   width: 120px;
   border-radius: 100px;
   border: none;
+}
+.contact-methods:hover{
+  cursor: pointer;
+  font-weight: bold;
+  background-color: lightpink;
+  border-style: solid;
+
+
 }
 
 .selfie-image {
