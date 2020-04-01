@@ -23,5 +23,5 @@ function openRockPaperScissors() {
 }
   
   function openResume() {
-window.open('https://github.com/e-ortiz/e-ortiz.github.io/raw/master/Resume%2C%20Ortiz%2C%20Edwin%202020%20(QR%20Code).pdf');
+window.open('https://github.com/e-ortiz/e-ortiz.github.io/raw/master/Resume%2C%20Ortiz%2C%20Edwin%20Spring%202020.pdf');
 }
