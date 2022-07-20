@@ -23,5 +23,5 @@ function openRockPaperScissors() {
 }
   
   function openResume() {
-window.open('https://github.com/e-ortiz/e-ortiz.github.io/raw/master/Resume%2C%20Ortiz%2C%20Edwin%20Spring%202020.pdf');
+window.open('https://github.com/e-ortiz/e-ortiz.github.io/blob/master/Edwin%20Ortiz%2C%20Resume%2C%20Summer%202022.pdf');
 }
