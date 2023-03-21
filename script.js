@@ -24,5 +24,5 @@ function openRockPaperScissors() {
   
 
   function openResume() {
-window.open('https://github.com/e-ortiz/e-ortiz.github.io/raw/master/Resume%202023%2C%20Edwin%20Ortiz.pdf');
+window.open('https://raw.githubusercontent.com/e-ortiz/e-ortiz.github.io/master/Resume_2023_Edwin_Ortiz.pdf');
 }
